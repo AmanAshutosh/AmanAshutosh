@@ -3,7 +3,10 @@
 [![Website](https://img.shields.io/website?label=indiancryptobuddy.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://indiancryptobuddy.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geekyashutosh1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgeekyashutosh1&screen_name=geekyashutosh1)
 
-![alt text](https://pbs.twimg.com/profile_banners/1261270598/1578730388/1500x500/to/img.png)
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="https://pbs.twimg.com/profile_banners/1261270598/1578730388/1500x500" width="350" alt="accessibility text">
+</p>
 
 ## I'm a Student, Freelancer, Blogger and Developer!!
 
