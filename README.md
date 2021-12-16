@@ -38,6 +38,9 @@
 <br />
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanAshutosh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://indiancryptobuddy.netlify.app
 [twitter]: https://twitter.com/geekyashutosh1
 [instagram]: https://www.instagram.com/geekyashutosh/
