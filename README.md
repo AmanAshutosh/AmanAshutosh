@@ -9,7 +9,7 @@
 
 - 🔭 I just launched my first Crypto Based Site: [Indian Crypto Buddy][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more React based projects
+- 🥅 2022 Goals:To Build full stack projects
 - ⚡ Fun fact: I love to Travel and Photography
 
 ### Connect with me:
