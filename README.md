@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Indian Crypto Buddy](https://indiancryptobuddy.netlify.app)**
+- 🔭 I’m currently Learning  **[React]()**
 
 - 🌱 I’m currently learning **React Native.**
 
