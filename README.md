@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Learning  **[React]()**
-
 - 🌱 I’m currently learning **React.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
