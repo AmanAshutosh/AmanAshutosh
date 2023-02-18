@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amanashutosh.netlify.app](https://amanashutosh.netlify.app)
 
-- 📝 I regularly write articles on [https://mohmayaworld.blogspot.com](https://mohmayaworld.blogspot.com)
+- 📝 I regularly write articles on [https://medium.com/@Codelessness](https://medium.com/@Codelessness)
 
 - 💬 Ask me about **Javascript, react, css**
 
