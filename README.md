@@ -23,7 +23,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ashutoshaman007/](https://www.linkedin.com/in/ashutoshaman007/)
 
-- ⚡ Fun fact **I can speak five languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
