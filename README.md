@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Codelessness](https://medium.com/@Codelessness)
 
-- 💬 Ask me about **Javascript, react, css**
+- 💬 Ask me about **Javascript, react, css.**
 
 - 📫 How to reach me **ashutoshaman@duck.com**
 
