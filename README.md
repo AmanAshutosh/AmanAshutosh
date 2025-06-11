@@ -71,7 +71,7 @@
 <p align="left">
   <a href="https://stackoverflow.com/users/codelessness" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/aman_ashutosh357" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/codelessness" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/CodeKarm/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/codelessness" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
