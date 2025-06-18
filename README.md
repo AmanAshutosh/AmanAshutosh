@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanashutosh&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanashutosh&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amanashutosh&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
