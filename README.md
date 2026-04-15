@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ashutosh Aman</h1>
+<h1 align="center">Hey I'm Ashutosh Aman</h1>
 <h3 align="center">🚀 A self-taught Full Stack Developer | JavaScript Enthusiast | Web3 Explorer</h3>
 
 <p align="center">
