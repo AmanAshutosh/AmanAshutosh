@@ -16,7 +16,7 @@
 - 🧠 Improving my **DSA skills** on platforms like LeetCode and GFG
 - 📚 Learning every day, building one repo at a time, and aiming for real-world impact
 - 📝 I write tech blogs on [Medium](https://medium.com/@Codelessness)
-- 🌐 Portfolio: [amanashutosh.netlify.app](https://hireme-theta.vercel.app/)
+- 🌐 Portfolio: [https://hireme-theta.vercel.app/](https://hireme-theta.vercel.app/)
 - 📫 Reach me at: **ashutoshaman@duck.com**
 
 ---
